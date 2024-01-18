@@ -1,0 +1,28 @@
+[gd_resource type="Theme" load_steps=8 format=2]
+
+[sub_resource type="StyleBoxEmpty" id=5]
+
+[sub_resource type="StyleBoxEmpty" id=6]
+
+[sub_resource type="StyleBoxEmpty" id=7]
+
+[sub_resource type="StyleBoxEmpty" id=1]
+
+[sub_resource type="StyleBoxEmpty" id=2]
+
+[sub_resource type="StyleBoxEmpty" id=3]
+
+[sub_resource type="StyleBoxEmpty" id=4]
+
+[resource]
+LineEdit/colors/font_color = Color( 0.901961, 0.901961, 0.901961, 1 )
+LineEdit/colors/font_color_uneditable = Color( 0.901961, 0.901961, 0.901961, 1 )
+LineEdit/styles/focus = SubResource( 5 )
+LineEdit/styles/normal = SubResource( 6 )
+LineEdit/styles/read_only = SubResource( 7 )
+TextEdit/colors/font_color = Color( 0.901961, 0.901961, 0.901961, 1 )
+TextEdit/colors/font_color_readonly = Color( 0.901961, 0.901961, 0.901961, 1 )
+TextEdit/styles/completion = SubResource( 1 )
+TextEdit/styles/focus = SubResource( 2 )
+TextEdit/styles/normal = SubResource( 3 )
+TextEdit/styles/read_only = SubResource( 4 )
