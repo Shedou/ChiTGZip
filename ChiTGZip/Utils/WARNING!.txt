@@ -1,1 +1,3 @@
 This directory must be next to the executable file!
+
+This directory must NOT be included IN the executable file!
